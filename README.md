@@ -1,3 +1,3 @@
 ### Task: 
 
-Make survival model - we need to guess whether the individuals from the dataset had survived or not.
+Make a survival model - predict whether the individuals from the dataset had survived or not.
